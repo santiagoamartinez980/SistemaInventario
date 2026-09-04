@@ -14,7 +14,7 @@ class Producto:
 
 
 # Productos iniciales
-leche = Producto("Leche", 4000)
-pan = Producto("Pan", 3000)
+huevos = Producto("Huevos", 4000)
+sal = Producto("Sal", 3000)
 
-leche.promocion(pan)
+huevos.promocion(sal)
