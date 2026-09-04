@@ -1,0 +1,10 @@
+Producto: Huevos
+Precio: $12.000
+
+Producto: Huevos
+Precio: $40000
+
+Promoción:
+Lleva 2 productos por $15.000:
+- Huevos
+- Sal
